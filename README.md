@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-#### 👨‍💻 I am a Brazilian developer studying non-stop  
-
-<img height="50em" align="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif"><br>
+#### 👨‍💻 I am a Brazilian developer studying non-stop   <img height="50em" align="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif"><br>
 <div>
    
 ##  *💻 Skill Set:*
