@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 👨‍💻 I am a Brazilian developer studying non-stop<img height="180em" align="right" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
+#### 👨‍💻 I am a Brazilian developer studying non-stop <img height="150em" align="right" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
 
 ##  *💻 Skill Set:*
    <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
