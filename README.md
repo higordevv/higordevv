@@ -1,4 +1,4 @@
-<img align="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
+<img height="180em" align="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
 
 
 
