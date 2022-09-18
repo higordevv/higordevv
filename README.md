@@ -8,6 +8,7 @@
    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/> 
    <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img width="40px"src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/>
 
 #### Linux user :penguin:
 </div>
