@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-#### 👨‍💻 I am a Brazilian developer studying non-stop<br>   <img height="50em" align="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
+#### 👨‍💻 I am a Brazilian developer studying non-stop<br><br>   <img height="50em" align="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
 
 </div>
 
