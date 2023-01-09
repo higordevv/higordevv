@@ -20,7 +20,8 @@
    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png"/>
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
+   <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
 
 #### Linux user :penguin:
 </div>
