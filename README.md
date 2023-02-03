@@ -3,8 +3,7 @@
 
 ### Hi there 👋
 
-#### 👨‍💻 I am a Brazilian developer studying non-stop<br><br>   <a href="https://app.daily.dev/higordevv"><img src="https://api.daily.dev/devcards/a913b969598746bc97a4767325bf0eda.png?r=c33" width="400" alt="Higor's Dev Card"/></a>
-
+#### 👨‍💻 I am a Brazilian developer studying non-stop<br><br>
 </div>
 
 <div align='center'>
