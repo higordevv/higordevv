@@ -27,8 +27,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pedrohigorx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pedrohigorx" /></a></p><br><br>
 
+<div align="center" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=higordevv&show_icons=true&locale=en&layout=compact" alt="higordevv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higordevv&show_icons=true&locale=en" alt="higordevv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higordevv&" alt="higordevv" /></p>
+</div>
