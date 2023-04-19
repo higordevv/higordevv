@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/higorkkkkkj" target="blank"><img src="https://img.shields.io/twitter/follow/higorkkkkkj?logo=twitter&style=for-the-badge" alt="higorkkkkkj" /></a> </p>
 <div align="center">
 
- 👨‍💻 All of my projects are available at [higor.ml](higor.ml)
+ 👨‍💻 All of my projects are available at [higor.ml](higor.ml) (in development)
 
  💬 Ask me about **React, Next, Taiwind**
 
