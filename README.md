@@ -32,12 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordevv&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
----
 
-### ☕ Apoie meu trabalho
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/pedrohigorx">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Compre um café" />
-  </a>
-</p>
