@@ -7,6 +7,7 @@
 <p align="left">
   Atuo na construção de aplicações modernas, escaláveis e com foco total na melhor experiência do usuário. Busco sempre entregar valor real nos produtos em que trabalho,       combinando design, código limpo e performance.
 </p>
+
 ### 🚀 Sobre mim
 
 - 🎓 Acadêmico em Ciência da Computação e entusiasta de desenvolvimento web com foco em **React**, **Next.js** e **Node.js**
