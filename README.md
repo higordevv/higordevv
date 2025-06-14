@@ -1,15 +1,15 @@
 <h1 align="center">Olá! Eu sou o Higor 👋</h1>
-<h3 align="center">Desenvolvedor Web Full Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
-<p align="center">
-  Apaixonado por criar aplicações modernas e escaláveis, focadas na melhor experiência do usuário e boas práticas de desenvolvimento.
+<p align="left">
+  Sou um Desenvolvedor Fullstack. Minha principal linguagem é JavaScript/Typescript, com foco no Desenvolvimento Client/Server.
 </p>
-
----
-
+<p align="left">
+  Atuo na construção de aplicações modernas, escaláveis e com foco total na melhor experiência do usuário. Busco sempre entregar valor real nos produtos em que trabalho,       combinando design, código limpo e performance.
+</p>
 ### 🚀 Sobre mim
 
-- 🎓 Estudante e entusiasta de desenvolvimento web com foco em **React**, **Next.js** e **Node.js**
+- 🎓 Acadêmico em Ciência da Computação e entusiasta de desenvolvimento web com foco em **React**, **Next.js** e **Node.js**
 - 🌎 Acredito no poder da web para transformar ideias em soluções reais
 - 🛠️ Gosto de trabalhar com **TypeScript**, **JavaScript**, e explorar novas ferramentas que otimizem o processo de desenvolvimento
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **DevOps** e **Clean Architecture**
@@ -19,11 +19,7 @@
 ### 📬 Contato
 
 - [LinkedIn](https://linkedin.com/in/pedro-higor-b8b546234)
-- [Twitter](https://twitter.com/higorkkkkkj)
-- [Dev.to](https://dev.to/higordevv)
-- [Instagram](https://instagram.com/higor.tsx)
-- Discord: `Higor#4189`
-
+- [Instagram](https://instagram.com/_higor.ss)
 ---
 
 ### 📊 GitHub Insights
