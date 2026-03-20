@@ -109,13 +109,11 @@ Centro Universitário de Fortaleza - UNIGRANDE (EAD)
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=higordevv&show_icons=true&theme=tokyonight&hide_border=true" />
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=higordevv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordevv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordevv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
