@@ -1,4 +1,4 @@
-<h1 align="center">Higor Santos 👋</h1>
+<h1 align="center">Higor Santos </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Fullstack+Developer;SaaS+Builder;AI+Integrations;Building+scalable+products" />
